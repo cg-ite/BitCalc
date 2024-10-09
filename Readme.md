@@ -12,3 +12,5 @@ As a small tool don't exspect too much.
 
 I hope that the program is quite self-explanatory. Mabye somebody finds it useful.
 
+![Screenshot of the main form.](https://github.com/cg-ite/BitCalc/blob/main/main1.png)
+![Screenshot of the main form.](https://github.com/cg-ite/BitCalc/blob/main/main2.png)
